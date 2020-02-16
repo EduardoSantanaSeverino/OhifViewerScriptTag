@@ -1,2 +1,0 @@
-# OhifViewerScriptTag
-Created with CodeSandbox
